@@ -1,7 +1,7 @@
 # didactic-palm-tree
  
 ## Overview
-Welcome to the Technical Writer Sample Repository. This repository contains a collection of technical writing samples designed to demonstrate technical writing skills and provide assessments. These samples do not have any license and are intended solely for demonstration purposes.
+Welcome to the Technical Writer Sample Repository. This repository contains a collection of technical writing samples designed to demonstrate technical writing skills and provide assessments. These samples have MIT license and are intended solely for documentation and portfolio purposes.
 
 ## Samples Included
  1. [User Guide for Identity and Access Management System](https://github.com/psicoder85/didactic-palm-tree/blob/main/Compliance%20Standards%20Handbook%20-%20ISO%2027001-27002%20-Sample%202.md)
